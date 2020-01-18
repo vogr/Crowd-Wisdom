@@ -1,6 +1,4 @@
-## Crowd wisdom
-
-**Project moved to <https://github.com/vogr/Crowd-Wisdom>**
+# Crowd wisdom
 
 *Crowd wisdom* is a two player game developped using the Godot Engine.
 
